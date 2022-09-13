@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 My name is Ngọc Thạch, I'm majoring in SoftWare Engineering at the PTITHCM university.
+🔭 My name is Ngọc Thạch, I'm majoring in Software Engineering at the PTITHCM university.
 
 👯I love to learn and research new technology. I am always energetic and eager to learn new skills.
 
