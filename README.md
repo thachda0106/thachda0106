@@ -1,4 +1,4 @@
-v<h1 align="center">Hi 👋, I'm Thach Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Thach Nguyen</h1>
 <h3 align="center">A Software Engineering from VietNam</h3>
 <p align="left">
 </p>
