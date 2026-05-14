@@ -1,10 +1,79 @@
-<h1 align="center">Hi 👋, I'm Thach Nguyen</h1>
-<h3 align="center">A Software Engineering from VietNam</h3>
-<p align="left">
-</p>
+# Nguyễn Ngọc Thạch
 
-### About 👋
-I am a full-stack developer with expertise in common frontend frameworks like React, Vue, and Angular, as well as backend technologies such as Node.js, Express.js, and NestJS. I am proficient with Google Cloud and AWS platforms. Passionate about learning and researching new technologies, I am always enthusiastic and eager to acquire new skills. My greatest strength lies in my ability to solve problems quickly and efficiently. I can view situations from multiple perspectives, making me uniquely qualified to tackle challenges and deliver exceptional results.
+**Team Lead & Senior Full-Stack Engineer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Ho Chi Minh City, Vietnam  
+[thachda010600@gmail.com](mailto:thachda010600@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/thach-nguyen-4251a3240/)
+
+---
+
+## About
+
+Senior Full-Stack Engineer & Team Lead specializing in building production-grade cloud-native platforms on **AWS & GCP**. Proven track record leading cross-functional teams, architecting microservices with **Terraform IaC**, and delivering high-impact products from zero to production. Passionate about developer experience, **AI-assisted workflows**, and measurable engineering outcomes.
+
+---
+
+## Experience
+
+### Team Leader
+**ICD Vietnam Co., Ltd** | Oct 2025 \u2013 Present
+- Led a cross-functional team of 4 engineers delivering a cloud-native geospatial platform on AWS, owning architecture decisions and sprint planning.
+- Architected containerised microservices on **AWS ECS** with modular **Terraform IaC**, reducing environment provisioning time from days to under an hour.
+- Significantly reduced deployment time by designing standardised CI/CD pipelines (Bitbucket Pipelines) with automated linting, testing and blue-green deploys.
+- Improved production stability: reduced critical runtime errors by hardening error-boundary patterns and adding structured logging & alerting.
+- Introduced **AI-assisted development workflows** (code review automation, AI-generated boilerplate) that measurably accelerated feature delivery cycle.
+
+### Full-Stack Developer
+**ICD Vietnam Co., Ltd** | Sep 2022 \u2013 Oct 2025
+- Built geospatial features for map-change tracking and spatial history management \u2014 core differentiator of the product used by enterprise clients.
+- Developed a task management system with full Gantt chart integration (drag-and-drop scheduling, dependency tracking), directly reducing project planning overhead for end users.
+- Engineered a file & folder management system backed by **AWS S3**, supporting version control, access policies and presigned URLs for secure delivery.
+- Provisioned and maintained AWS infrastructure (ECS, ALB, S3) and GCP services (Cloud Run, App Engine) using **Terraform modules**; zero manual console changes.
+- Substantially improved application performance through systematic refactoring of legacy codebases, removing N+1 queries and optimising bundle size.
+- Achieved **100% unit test coverage** on critical modules; authored integration tests preventing production regressions.
+- Significantly improved **Core Web Vitals** (LCP, CLS, FID), raising Lighthouse scores to 90+ on key pages.
+- Deployed services to **GCP Cloud Run** & **App Engine** using environment-specific Cloud Build pipelines with staged rollouts.
+
+### Software Engineer (Freelance)
+**Freelance** | Jun 2023 \u2013 Jul 2024
+- Delivered a real-time health-check monitoring dashboard for SAP servers using **VueJS**, providing live status visualisation for operations teams.
+- Integrated third-party APIs (healthcare data, analytics) into client applications \u2014 designed abstraction layers for clean data flow between services.
+- Collaborated directly with clients across the full project lifecycle: requirements gathering \u2192 wireframing \u2192 delivery \u2192 iteration.
+
+---
+
+## Key Highlights
+
+- **Infrastructure as Code**: Terraform modules across AWS & GCP \u2014 zero manual console changes
+- **Performance Optimization**: Core Web Vitals tuning, N+1 query elimination, bundle optimization
+- **AI-Assisted Development**: Integrated AI tools into team workflow to accelerate delivery
+- **Team Leadership**: Led cross-functional engineering team with sprint planning & architecture ownership
+
+---
+
+## Skills
+
+| Category | Technologies |
+|---|---|
+| **Cloud & DevOps** | AWS (ECS, ALB, S3), GCP (Cloud Run, App Engine), Terraform (modular IaC), Docker & Docker Compose, Bitbucket Pipelines / Cloud Build |
+| **Backend** | Node.js \u00b7 NestJS \u00b7 Express, Python \u00b7 FastAPI, REST API design, Microservices architecture, Event-driven systems |
+| **Frontend** | React \u00b7 Next.js, Vue.js \u00b7 Angular, TypeScript, Core Web Vitals / Performance |
+| **Databases** | PostgreSQL \u00b7 MySQL, MongoDB, Redis |
+| **Architecture & Design** | Distributed systems, Microservices / DDD, Event-driven design, Geospatial systems (GIS), AI-assisted workflows |
+
+---
+
+## Education
+
+**B.Eng. Software Engineering**  
+Posts & Telecommunications Institute of Technology (PTIT), Ho Chi Minh City Campus  
+2018 \u2013 2022
+
+---
+
+## GitHub Stats
+
+![Thach's GitHub stats](https://github-readme-stats.vercel.app/api?username=thachda0106&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thachda0106&layout=compact&theme=tokyonight)
